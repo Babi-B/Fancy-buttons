@@ -50,7 +50,7 @@ button{
     text-shadow: 0 1px 0 #3359a5;
 }
 .facebook-dark-btn:hover{
-    background-color: #2b54a7;
+    background-color: black;
 }
 .facebook-dark-btn:active{
     background : #173777;
