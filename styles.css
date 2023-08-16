@@ -31,7 +31,7 @@ button{
     cursor: pointer;
     font-weight: bold;
     margin: 0 15px 0 0 ;
-    color: red;
+   background-color: red;
 }
 /* ==================================FACEBOOK buttons================================== */
 /* ----------------Facebook dark mode button styles */
