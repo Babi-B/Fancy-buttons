@@ -245,7 +245,7 @@ button{
     color: white;
     text-shadow: 0 2px 0 #000;
 
-    background:#018dc0;
+    background:purple;
     border: solid 1px #555;
 }
 .animated-btn-2::after{
@@ -258,6 +258,7 @@ button{
 }
 .animated-btn-2:hover{
     padding: 20px 60px 20px 20px;
+    background-color:black;
 }
 .animated-btn-2:hover::after{
     right: 1.2rem;
